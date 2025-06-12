@@ -1,0 +1,115 @@
+ {
+    "candidate" : [
+    {
+      "id": 1,
+      "title": "Senior Frontend Developer",
+      "company": "Photosnap",
+      "logo": "photosnap-logo.png",
+      "employment": "Full Time",
+      "location": "USA only",
+      "isNew" : true,
+      "isFeatured" : true,
+      "technologies": ["Frontend", "Senior", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "title": "Fullstack Developer",
+      "company": "Manage",
+      "logo": "manage-logo.png",
+      "employment": "Part Time",
+      "location": "Remote",
+      "isNew" : true,
+      "isFeatured" : true,
+      "technologies": ["Fullstack", "Midweight", "Python", "React"]
+    },
+    {
+      "id": 3,
+      "title": "Junior Frontend Developer",
+      "company": "Account",
+      "logo": "account-logo.png",
+      "employment": "Part Time",
+      "location": "USA only",
+      "isNew" : true,
+      "isFeatured" : false,
+      "technologies": ["Frontend", "Junior", "React", "Sass", "JavaScript"]
+    },
+    {
+      "id": 4,
+      "title": "Junior Frontend Developer",
+      "company": "MyHome",
+      "logo": "myhome-logo.png",
+      "employment": "Contract",
+      "location": "USA only",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Frontend", "Junior", "CSS", "JavaScript"]
+    },
+    {
+      "id": 5,
+      "title": "Software Engineer",
+      "company": "Loop Studios",
+      "logo": "loop-studios-logo.png",
+      "employment": "Full Time",
+      "location": "Worldwide",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Fullstack", "Midweight", "JavaScript", "Sass", "Ruby"]
+    },
+    {
+      "id": 6,
+      "title": "Junior Backend Developer",
+      "company": "FaceIt",
+      "logo": "faceit-logo.png",
+      "employment": "Full Time",
+      "location": "UK only",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Backend", "Junior", "Ruby", "RoR"]
+    },
+    {
+      "id": 7,
+      "title": "Junior Developer",
+      "company": "Shortly",
+      "logo": "shortly-logo.png",
+      "employment": "Full Time",
+      "location": "Worldwide",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Frontend", "Junior", "HTML", "Sass", "JavaScript"]
+    },
+    {
+      "id": 8,
+      "title": "Junior Frontend Developer",
+      "company": "Insure",
+      "logo": "insure-logo.png",
+      "employment": "Full Time",
+      "location": "USA only",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Frontend", "Junior", "Vue", "JavaScript", "Sass"]
+    },
+    {
+      "id": 9,
+      "title": "Full Stack Engineer",
+      "company": "Eyecam Co.",
+      "logo": "eyecam-logo.png",
+      "employment": "Full Time",
+      "location": "Worldwide",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Fullstack", "Midweight", "JavaScript", "Django", "Python"]
+    },
+    {
+      "id": 10,
+      "title": "Front-end Dev",
+      "company": "The Air Filter Company",
+      "logo": "airfilter-logo.png",
+      "employment": "Part Time",
+      "location": "Worldwide",
+      "isNew" : false,
+      "isFeatured" : false,
+      "technologies": ["Frontend", "Junior", "React", "Sass", "JavaScript"]
+    }
+  ]
+}
+  
